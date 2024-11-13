@@ -1,1 +1,1 @@
-Crud app with next js on the front end.
+Nextjs filter based search app with mongo db on the backend.
